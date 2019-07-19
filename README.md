@@ -1,2 +1,2 @@
-# novo-projeto
+# new-project
 Test repository
