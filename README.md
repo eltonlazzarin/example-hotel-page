@@ -1,2 +1,2 @@
-# new-project
-Test repository
+# Hotel web page
+Web page created with flexbox CSS
