@@ -1,2 +1,2 @@
 # Hotel web page
-Web page created with flexbox CSS
+Web page built with flexbox CSS
